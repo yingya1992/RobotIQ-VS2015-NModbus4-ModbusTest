@@ -1,0 +1,11 @@
+c:\users\ray\documents\visual studio 2015\Projects\ModbusTest\ModbusTest\bin\Debug\ModbusTest.exe.config
+c:\users\ray\documents\visual studio 2015\Projects\ModbusTest\ModbusTest\bin\Debug\ModbusTest.exe
+c:\users\ray\documents\visual studio 2015\Projects\ModbusTest\ModbusTest\bin\Debug\ModbusTest.pdb
+c:\users\ray\documents\visual studio 2015\Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csprojResolveAssemblyReference.cache
+c:\users\ray\documents\visual studio 2015\Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.Properties.Resources.resources
+c:\users\ray\documents\visual studio 2015\Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.GenerateResource.Cache
+c:\users\ray\documents\visual studio 2015\Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.exe
+c:\users\ray\documents\visual studio 2015\Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.pdb
+c:\users\ray\documents\visual studio 2015\Projects\ModbusTest\ModbusTest\bin\Debug\NModbus4.dll
+c:\users\ray\documents\visual studio 2015\Projects\ModbusTest\ModbusTest\bin\Debug\NModbus4.xml
+c:\users\ray\documents\visual studio 2015\Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.Form1.resources
